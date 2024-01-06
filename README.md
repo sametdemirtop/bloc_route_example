@@ -1,16 +1,20 @@
-# bloc_example
+#  BLoC Mimarisi ve Route Generator Kullanımı
 
-A new Flutter project.
+Bu Flutter projesi, temel bir BLoC (Bloc) mimarisi kullanılarak geliştirilmiş bir örnek uygulamadır. Projede, renk değiştiren basit bir özellik bulunmaktadır. Ayrıca, sayfa yönlendirmelerini düzenlemek ve yönlendirmeleri yönetmek amacıyla onGenerateRoute kullanılarak özel bir yol oluşturucusu (Route Generator) tanımlanmıştır.
 
-## Getting Started
+## Ana Özellikler
+### 1- ColorBloc Kullanımı
+Proje, ColorBloc adlı bir BLoC kullanarak basit bir renk yönetimini içerir. Bu BLoC, uygulama boyunca renk değişimleri için temel bir yapı sağlar.
 
-This project is a starting point for a Flutter application.
+### 2-onGenerateRoute Kullanımı
+Uygulama, sayfa yönlendirmelerini yönetmek için onGenerateRoute özelliğini kullanır. Bu özellik, RouteGenerator adlı bir sınıf tarafından yönetilen bir yönlendirme oluşturucusunu işaret eder.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Projenin Çalıştırılması
+### PART 1
+https://github.com/sametdemirtop/bloc_route_example/assets/86069575/77e7f323-726d-47cc-83ac-ed9c02b8f4fa
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### PART 2
+https://github.com/sametdemirtop/bloc_route_example/assets/86069575/629c0ca8-590a-48c2-945c-abf595ce5116
+
+
